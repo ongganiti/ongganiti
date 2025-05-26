@@ -1,4 +1,3 @@
-Tentu! Berikut ini contoh file index.html sederhana untuk website UD. Ongganiti, yang bisa langsung kamu upload ke GitHub:
 
 <!DOCTYPE html>
 <html lang="id">
@@ -45,31 +44,3 @@ Tentu! Berikut ini contoh file index.html sederhana untuk website UD. Ongganiti,
       <h2>Tentang Kami</h2>
       <p>UD. Ongganiti adalah usaha pertanian yang berlokasi di Duwet, Panarukan, Situbondo. Kami menyediakan jagung pipil KA 14–20 dan gabah KS KA 26–30 dengan kualitas unggulan.</p>
     </section>
-
-    <section>
-      <h2>Produk Kami</h2>
-      <ul>
-        <li>Jagung Pipil KA 14–20</li>
-        <li>Gabah KS KA 26–30</li>
-      </ul>
-    </section>
-
-    <section>
-      <h2>Kontak</h2>
-      <p>Alamat: Jl. Raya Pathek - Duwet Selatan Rt. 01 Rw. 01, Duwet, Panarukan, Situbondo, Jawa Timur</p>
-      <p>Telepon/WA: 085325847978</p>
-      <p>Email: ud.onghaniti.com</p>
-    </section>
-  </main>
-
-  <footer>
-    <p>&copy; 2025 UD. Ongganiti</p>
-  </footer>
-</body>
-</html>
-
-
----
-
-Jika kamu mau, saya juga bisa bantu siapkan file lengkap dalam format .zip untuk langsung di-upload ke GitHub. Ingin saya kirimkan?
-
